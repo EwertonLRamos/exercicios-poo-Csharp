@@ -1,4 +1,4 @@
-﻿Exercício controle de animais
+﻿Exercício 02 - Controle de animais
 
 Crie um algoritmo/programa no qual o usuário deverá informar o nome e o tipo de cinco animais de estimação. O programa deverá exibir na tela para o usuário quantos Cachorros, Gatos e peixes foram informados.
 
