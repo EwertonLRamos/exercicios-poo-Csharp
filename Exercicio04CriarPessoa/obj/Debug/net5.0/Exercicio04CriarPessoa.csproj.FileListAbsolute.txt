@@ -1,0 +1,16 @@
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\bin\Debug\net5.0\Exercicio04CriarPessoa.exe
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\bin\Debug\net5.0\Exercicio04CriarPessoa.deps.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\bin\Debug\net5.0\Exercicio04CriarPessoa.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\bin\Debug\net5.0\Exercicio04CriarPessoa.runtimeconfig.dev.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\bin\Debug\net5.0\Exercicio04CriarPessoa.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\bin\Debug\net5.0\ref\Exercicio04CriarPessoa.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\bin\Debug\net5.0\Exercicio04CriarPessoa.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\Exercicio04CriarPessoa.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\Exercicio04CriarPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\Exercicio04CriarPessoa.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\Exercicio04CriarPessoa.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\Exercicio04CriarPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\Exercicio04CriarPessoa.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\ref\Exercicio04CriarPessoa.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\Exercicio04CriarPessoa.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio04CriarPessoa\obj\Debug\net5.0\Exercicio04CriarPessoa.genruntimeconfig.cache

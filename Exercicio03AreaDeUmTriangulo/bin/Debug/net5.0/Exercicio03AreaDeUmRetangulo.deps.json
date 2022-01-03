@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio03AreaDeUmRetangulo/1.0.0": {
+        "runtime": {
+          "Exercicio03AreaDeUmRetangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio03AreaDeUmRetangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

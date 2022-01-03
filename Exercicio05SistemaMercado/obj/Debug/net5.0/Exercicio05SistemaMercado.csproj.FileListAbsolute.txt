@@ -1,0 +1,16 @@
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\bin\Debug\net5.0\Exercicio05SistemaMercado.exe
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\bin\Debug\net5.0\Exercicio05SistemaMercado.deps.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\bin\Debug\net5.0\Exercicio05SistemaMercado.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\bin\Debug\net5.0\Exercicio05SistemaMercado.runtimeconfig.dev.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\bin\Debug\net5.0\Exercicio05SistemaMercado.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\bin\Debug\net5.0\ref\Exercicio05SistemaMercado.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\bin\Debug\net5.0\Exercicio05SistemaMercado.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\Exercicio05SistemaMercado.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\Exercicio05SistemaMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\Exercicio05SistemaMercado.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\Exercicio05SistemaMercado.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\Exercicio05SistemaMercado.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\Exercicio05SistemaMercado.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\ref\Exercicio05SistemaMercado.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\Exercicio05SistemaMercado.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio05SistemaMercado\obj\Debug\net5.0\Exercicio05SistemaMercado.genruntimeconfig.cache

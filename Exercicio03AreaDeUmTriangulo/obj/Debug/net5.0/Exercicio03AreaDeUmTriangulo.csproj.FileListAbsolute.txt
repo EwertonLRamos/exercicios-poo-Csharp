@@ -1,0 +1,16 @@
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\bin\Debug\net5.0\Exercicio03AreaDeUmTriangulo.exe
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\bin\Debug\net5.0\Exercicio03AreaDeUmTriangulo.deps.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\bin\Debug\net5.0\Exercicio03AreaDeUmTriangulo.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\bin\Debug\net5.0\Exercicio03AreaDeUmTriangulo.runtimeconfig.dev.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\bin\Debug\net5.0\Exercicio03AreaDeUmTriangulo.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\bin\Debug\net5.0\ref\Exercicio03AreaDeUmTriangulo.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\bin\Debug\net5.0\Exercicio03AreaDeUmTriangulo.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\Exercicio03AreaDeUmTriangulo.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\Exercicio03AreaDeUmTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\Exercicio03AreaDeUmTriangulo.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\Exercicio03AreaDeUmTriangulo.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\Exercicio03AreaDeUmTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\Exercicio03AreaDeUmTriangulo.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\ref\Exercicio03AreaDeUmTriangulo.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\Exercicio03AreaDeUmTriangulo.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio03AreaDeUmTriangulo\obj\Debug\net5.0\Exercicio03AreaDeUmTriangulo.genruntimeconfig.cache

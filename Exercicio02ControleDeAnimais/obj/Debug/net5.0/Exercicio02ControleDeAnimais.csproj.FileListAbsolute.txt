@@ -1,0 +1,16 @@
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\bin\Debug\net5.0\Exercicio02ControleDeAnimais.exe
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\bin\Debug\net5.0\Exercicio02ControleDeAnimais.deps.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\bin\Debug\net5.0\Exercicio02ControleDeAnimais.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\bin\Debug\net5.0\Exercicio02ControleDeAnimais.runtimeconfig.dev.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\bin\Debug\net5.0\Exercicio02ControleDeAnimais.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\bin\Debug\net5.0\ref\Exercicio02ControleDeAnimais.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\bin\Debug\net5.0\Exercicio02ControleDeAnimais.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\Exercicio02ControleDeAnimais.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\Exercicio02ControleDeAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\Exercicio02ControleDeAnimais.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\Exercicio02ControleDeAnimais.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\Exercicio02ControleDeAnimais.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\Exercicio02ControleDeAnimais.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\ref\Exercicio02ControleDeAnimais.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\Exercicio02ControleDeAnimais.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio02ControleDeAnimais\obj\Debug\net5.0\Exercicio02ControleDeAnimais.genruntimeconfig.cache

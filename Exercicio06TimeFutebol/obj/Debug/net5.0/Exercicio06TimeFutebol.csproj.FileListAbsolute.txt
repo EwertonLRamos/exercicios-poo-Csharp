@@ -1,0 +1,16 @@
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\bin\Debug\net5.0\Exercicio06TimeFutebol.exe
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\bin\Debug\net5.0\Exercicio06TimeFutebol.deps.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\bin\Debug\net5.0\Exercicio06TimeFutebol.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\bin\Debug\net5.0\Exercicio06TimeFutebol.runtimeconfig.dev.json
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\bin\Debug\net5.0\Exercicio06TimeFutebol.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\bin\Debug\net5.0\ref\Exercicio06TimeFutebol.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\bin\Debug\net5.0\Exercicio06TimeFutebol.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\Exercicio06TimeFutebol.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\Exercicio06TimeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\Exercicio06TimeFutebol.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\Exercicio06TimeFutebol.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\Exercicio06TimeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\Exercicio06TimeFutebol.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\ref\Exercicio06TimeFutebol.dll
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\Exercicio06TimeFutebol.pdb
+C:\Users\Ewerton Lucas\source\repos\ExerciciosPOO\Exercicio06TimeFutebol\obj\Debug\net5.0\Exercicio06TimeFutebol.genruntimeconfig.cache
