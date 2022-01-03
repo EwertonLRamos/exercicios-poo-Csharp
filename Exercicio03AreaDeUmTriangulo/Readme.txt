@@ -1,4 +1,4 @@
-﻿Exercício área de um retângulo
+﻿Exercício 03 - Área de um retângulo
 
 Crie um programa que exiba para o usuário qual é a área de um retângulo. Para implementar esse programa você deverá seguir as seguintes regras:
 
