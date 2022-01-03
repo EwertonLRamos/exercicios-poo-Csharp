@@ -1,4 +1,4 @@
-﻿01 - Exercício Maior Idade
+﻿Exercício 01 - Maior Idade
 
 Implemente um programa no qual o usuário deverá informar o nome e a idade de três pessoas. O programa deverá informar o nome da pessoa que possuir a maior idade.
 
